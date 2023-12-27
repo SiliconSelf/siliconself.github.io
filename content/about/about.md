@@ -25,7 +25,7 @@ Bouldering is my favorite sport and I try to go at least once a week. I am const
 I run my own fleet of servers for personal projects and infrastructure using decommissioned datacenter hardware from eBay running NixOS. Things I host include servers for [Conduit](https://conduit.rs), [Jellyfin](https://jellyfin.org/), [Navidrome](https://www.navidrome.org/), various game servers, and more.
 
 **🥋 Martial Artist:**
-I am an avid martial artist and pursuing shodans in International Kenpo and Kamishin Ryu. I've also been interested in the biomechanics of early Hong Kong Wing Chun and have been incorporating some of their theories into my usual arts.
+I am an avid martial artist and pursuing shodan in International Kenpo and Kamishin-Ryu. I've also been interested in the biomechanics of early Hong Kong Wing Chun and have been incorporating some of their theories into my usual arts.
 
 **🌐 Digital Privacy Advocate:**
 I am a huge proponent of digital privacy and an [EFF](https://eff.org) member. I have developed several tools to help people enforce their own privacy online and work with survivors of stalking, sexual assault, and domestic violence on a pro-bono basis to protect their physical safety by enhancing their digital privacy    .
