@@ -12,12 +12,12 @@ Before I fully broke into the tech industry, I was an Emergency Medical Technici
 
 <!-- **🎖️ Special Forces Medical Sergeant (US Army):** -->
 
-**🕵️ Hacker:**
-While I may be a blue team programmer by day, after hours I spend a lot of time on security research. I've especially taken interest in:
+**🕵️ Security Researcher:**
+While I may be a blue team programmer by day, after hours I spend a lot of time on security research and ethical hacking. I've especially taken interest in:
 
-- Writing bespoke malware finding novel ways to target Windows platforms
-- Car hacking with OBD-II reverse-engineering and finding vulnerabilities in infotainment systems
-- Using source code static analysis for automated web application vulnerability testing
+- Finding novel exploits and ways to target Windows platforms
+- Automotive research with OBD-II reverse-engineering and finding vulnerabilities in infotainment systems
+- Using source code static analysis for automated blue team web application vulnerability testing
 
 **🧗‍♂️ Boulderer:**
 Bouldering is my favorite sport and I try to go at least once a week. I am constantly trying to push my strength and skills to reach higher and higher on the V scale.
