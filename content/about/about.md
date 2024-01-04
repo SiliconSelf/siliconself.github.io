@@ -32,7 +32,7 @@ I am an avid martial artist and pursuing shodan in International Kenpo and Kamis
 I am a huge proponent of digital privacy and an [EFF](https://eff.org) member. I have developed several tools to help people enforce their own privacy online and work with survivors of stalking, sexual assault, and domestic violence on a pro-bono basis to protect their physical safety by enhancing their digital privacy    .
 
 **🌲 Explorer:**
-Being from Colorado I naturally love all things outdoors and I'm always looking to get outside more. From the Pawnee grasslands to the mountains and national forests you can often find me camping, hiking, rock climbing, skiing, mountain biking, rafting, or something else.
+Being from Colorado, I'm not breaking any stereotypes by loving all things outdoors and I'm always looking to get outside more. From the Pawnee grasslands to the mountains and national forests you can often find me camping, hiking, rock climbing, skiing, mountain biking, rafting, or something else.
 
 <!-- **Let's Connect:**
 I thrive on meaningful conversations. Whether it's delving into the intricacies of Rust, sharing insights into web development trends, or discussing the unique blend of military and tech experiences, I'm always up for a chat. Let's build something great together! -->
