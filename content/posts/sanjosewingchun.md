@@ -2,7 +2,7 @@
 title =  "Leung Sheung Lineage Wing Chun: The Thoughts of a Beginner"
 tags = ["martial arts", "wing chun"]
 date = "2024-02-14"
-draft = true
+draft = false
 +++
 
 ## My Trip To San Jose
