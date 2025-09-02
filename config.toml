@@ -8,7 +8,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 # disqusShortname = "yourDisqusShortname"
 
 [params]
-    brand = "Wren Morozova"                      # name of your site - appears in the sidebar
+    brand = "Emily Morozova"                      # name of your site - appears in the sidebar
     remote_brand_image = 'https://github.com/siliconself.png' # path to a remote file
     # brand_image = "/images/test.jpg"    # path to the image shown in the sidebar
     # description = "EMT, Hacker, Veteran" # Used as default meta description if not specified in front matter
